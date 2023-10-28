@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hello there General Kenobi👋
+
+🔭 I’m currently working on my Bachelor in Electrical Engineering and Information Technology
+🌱 I’m currently learning CAD, 3D-Printing, Mechanics, Programming (Again), new Enginnering tricks 
+👯 I’m looking to collaborate on model Rocketing, making drones from scratch or even something fun in Software
+⚡ Fun fact: i am copying the suggestions from git to give you an inlook of me :D
+😄 Pronouns: He / Him 
 
 <!--
 **AjasD6/AjasD6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
